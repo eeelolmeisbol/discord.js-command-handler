@@ -10,10 +10,11 @@ Now thats all! lets get into getting our bot token and editing some files.
 
 **Getting ur bot token**
 Go to: https://discord.com/developers/applications
-![](/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.01.00.png)
-After that you will see this, go and click create new application. Go in it and then open `Bot`
 
-![](/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.02.54.png)
+After that you will see this, go and click create new application. Go in it and then open `Bot`
+![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.01.00.png]()
+
+![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.02.54.png]()
 After that you will see this, go and click **create bot** copy the **token** after that go to `OAuth2` page.
 
 Go to __Scopes__ and check BOT. After that copy the link that showed up and paste it into a website url. the invite the bot.
