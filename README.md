@@ -23,15 +23,15 @@ Go to __Scopes__ and check BOT. After that copy the link that showed up and past
 ## Config
 In the config.json file you will see this:
 
-     `{`
+     {
     "token": "YOUR_TOKEN_HERE",
     "prefix": "n? (YOUR PREFIX)",
     "discord_owner_id": "YOU_ID_HERE"
      }
 
-Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID"
-Replace prefix with ur command prefix. (so if you put ! it will be !help)
-Replace token with ur bot token. (Paste the token from developer portal.)
+**Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID"**
+**Replace prefix with ur command prefix. (so if you put ! it will be !help)**
+**Replace token with ur bot token. (Paste the token from developer portal.)
 
 ## Starting
 You can simply start it by doing: `node .`
