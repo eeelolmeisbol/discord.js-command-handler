@@ -23,7 +23,7 @@ Go to __Scopes__ and check BOT. After that copy the link that showed up and past
 ## Config
 In the config.json file you will see this:
 
-`{
+``` {
     "token": "YOUR_TOKEN_HERE",
     "prefix": "n? (YOUR PREFIX)",
     "discord_owner_id": "YOU_ID_HERE"
