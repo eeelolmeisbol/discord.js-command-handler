@@ -14,7 +14,7 @@ Go to: https://discord.com/developers/applications
 After that you will see this, go and click create new application. Go in it and then open `Bot`
 ![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.01.00.png]()
 
-![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.02.54.png]()
+![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.02.54.png](yes)
 After that you will see this, go and click **create bot** copy the **token** after that go to `OAuth2` page.
 
 Go to __Scopes__ and check BOT. After that copy the link that showed up and paste it into a website url. the invite the bot.
@@ -23,11 +23,11 @@ Go to __Scopes__ and check BOT. After that copy the link that showed up and past
 ## Config
 In the config.json file you will see this:
 
-```  {
-    "token": "YOUR_TOKEN_HERE",
-    "prefix": "n? (YOUR PREFIX)",
-    "discord_owner_id": "YOU_ID_HERE"
-     } `
+     `{`
+    `"token": "YOUR_TOKEN_HERE",`
+    `"prefix": "n? (YOUR PREFIX)",`
+    `"discord_owner_id": "YOU_ID_HERE"`
+     }
 
 Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID"
 Replace prefix with ur command prefix. (so if you put ! it will be !help)
