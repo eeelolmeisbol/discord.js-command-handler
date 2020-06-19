@@ -14,7 +14,7 @@ Go to: https://discord.com/developers/applications
 After that you will see this, go and click create new application. Go in it and then open `Bot`
 ![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.01.00.png]()
 
-![/Users/aysuyildiz/Desktop/Bildschirmfoto\ 2020-06-18\ um\ 23.02.54.png](yes)
+![Frame Token](https://cdn.discordapp.com/attachments/644764850706448390/723487647955288104/Bildschirmfoto_2020-06-18_um_23.01.00.png)
 After that you will see this, go and click **create bot** copy the **token** after that go to `OAuth2` page.
 
 Go to __Scopes__ and check BOT. After that copy the link that showed up and paste it into a website url. the invite the bot.
