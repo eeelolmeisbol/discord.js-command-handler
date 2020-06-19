@@ -4,7 +4,7 @@ This is a quick tutorial so don't expect this to be a full bot. you can easily i
 
 ## Installing Packages
 To get the gtihub repo use: `$ git clone https://github.com/eeelolmeisbol/discord.js-command-handler`
- Then Use: `npm install discord.js` to install discord.js packages.
+ Use: `npm install discord.js`
 
 Now thats all! lets get into getting our bot token and editing some files.
 
@@ -29,11 +29,11 @@ In the config.json file you will see this:
     "discord_owner_id": "YOU_ID_HERE"
      }
 
-**Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID"**
+**Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID")**
 
 **Replace prefix with ur command prefix. (so if you put ! it will be !help)**
 
-**Replace token with ur bot token. (Paste the token from developer portal.)
+**Replace token with ur bot token. (Paste the token from developer portal.)**
 
 ## Starting
 You can simply start it by doing: `node .`
