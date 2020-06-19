@@ -8,7 +8,7 @@ To get the gtihub repo use: `$ git clone https://github.com/eeelolmeisbol/discor
 
 Now thats all! lets get into getting our bot token and editing some files.
 
-**Getting ur bot token**
+### Getting ur bot token
 Go to: https://discord.com/developers/applications
 
 After that you will see this, go and click create new application. Go in it and then open `Bot`
