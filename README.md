@@ -24,9 +24,9 @@ Go to __Scopes__ and check BOT. After that copy the link that showed up and past
 In the config.json file you will see this:
 
      `{`
-    `"token": "YOUR_TOKEN_HERE",`
-    `"prefix": "n? (YOUR PREFIX)",`
-    `"discord_owner_id": "YOU_ID_HERE"`
+    "token": "YOUR_TOKEN_HERE",
+    "prefix": "n? (YOUR PREFIX)",
+    "discord_owner_id": "YOU_ID_HERE"
      }
 
 Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID"
