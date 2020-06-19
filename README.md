@@ -30,7 +30,9 @@ In the config.json file you will see this:
      }
 
 **Replace discord_owner_id with ur id. ( Right click ur avatar and click "Copy ID"**
+
 **Replace prefix with ur command prefix. (so if you put ! it will be !help)**
+
 **Replace token with ur bot token. (Paste the token from developer portal.)
 
 ## Starting
